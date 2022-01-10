@@ -1,0 +1,12 @@
+C:\Users\samat\RiderProjects\Inbox\Inbox\bin\Debug\net6.0\Inbox.deps.json
+C:\Users\samat\RiderProjects\Inbox\Inbox\bin\Debug\net6.0\Inbox.dll
+C:\Users\samat\RiderProjects\Inbox\Inbox\bin\Debug\net6.0\ref\Inbox.dll
+C:\Users\samat\RiderProjects\Inbox\Inbox\bin\Debug\net6.0\Inbox.pdb
+C:\Users\samat\RiderProjects\Inbox\Inbox\obj\Debug\net6.0\Inbox.csproj.AssemblyReference.cache
+C:\Users\samat\RiderProjects\Inbox\Inbox\obj\Debug\net6.0\Inbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samat\RiderProjects\Inbox\Inbox\obj\Debug\net6.0\Inbox.AssemblyInfoInputs.cache
+C:\Users\samat\RiderProjects\Inbox\Inbox\obj\Debug\net6.0\Inbox.AssemblyInfo.cs
+C:\Users\samat\RiderProjects\Inbox\Inbox\obj\Debug\net6.0\Inbox.csproj.CoreCompileInputs.cache
+C:\Users\samat\RiderProjects\Inbox\Inbox\obj\Debug\net6.0\Inbox.dll
+C:\Users\samat\RiderProjects\Inbox\Inbox\obj\Debug\net6.0\ref\Inbox.dll
+C:\Users\samat\RiderProjects\Inbox\Inbox\obj\Debug\net6.0\Inbox.pdb
